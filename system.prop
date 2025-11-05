@@ -1,0 +1,21 @@
+# Hardware
+ro.mediatek.platform=MT6893
+ro.vendor.mediatek.platform=MT6893
+ro.hardware=mt8797
+
+# Dynamic partitions
+ro.boot.dynamic_partitions=true
+
+# Encryption
+ro.mtk_tee_gp_support=1
+ro.mtk_microtrust_tee_support=1
+ro.vendor.mtk_tee_gp_support=1
+ro.vendor.mtk_microtrust_tee_support=1
+ro.crypto.volume.filenames_mode=aes-256-cts:v2
+ro.hardware.kmsetkey=beanpod
+ro.hardware.gatekeeper=beanpod
+ro.boot.boot_devices=bootdevice,soc/11270000.ufshci,11270000.ufshci
+ro.postinstall.fstab.prefix=/system
+
+# Screen
+ro.sf.lcd_density=320
