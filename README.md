@@ -77,7 +77,8 @@ export ALLOW_MISSING_DEPENDENCIES=true
 lunch twrp_TB132FU-eng
 mka bootimage
 ```
-
+Note:
+ To avoid the half-screen issue, you need to download the graphics_drm.cpp and libminuitwrp_defaults.go files from https://github.com/TeamWin/android_bootable_recovery/tree/android-14/minuitwrp and replace the same files in the bootable/recovery/minuitwrp folder in the root directory of TWRP. 
 $~$
 
 ## Device picture
