@@ -1,4 +1,4 @@
-# Recocery Device Tree for Lenovo Tab P11 Pro Gen 2
+# Recovery Device Tree for Lenovo Tab P11 Pro Gen 2    from YZbruh
 
 The Lenovo Tab P11 Pro Gen 2 (codenamed _"TB132FU"_) is an mid-level tablet from Lenovo.
 
