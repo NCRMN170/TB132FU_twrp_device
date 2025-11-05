@@ -46,7 +46,7 @@ $~$
 - [ ] MTP export
 - [ ] reboot to bootloader
 - [ ] reboot to recovery
-- [ ] poweroff
+- [ ] power off
 - [ ] battery level
 - [ ] temperature
 - [ ] encrypted backups
