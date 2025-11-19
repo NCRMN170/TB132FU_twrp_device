@@ -12,7 +12,7 @@ It was announced and released in 2023.
 | CPU                            | Octa-core (4x 2.6 GHz ARM Cortex-A78 & 4x 2.0 GHz ARM Cortex-A55)           |
 | GPU                            | Mali-G77 MC9                                                      |
 | Memory                         | 8GB RAM (LPDDR4X)                                     |
-| Shipped OS                     | Android 12                                               |
+| Shipped OS                     | Android 14                                               |
 | Storage                        | 256GB (UFS 3.1)                                          |
 | MicroSD                        | Up to 1TB                                                         |
 | Battery                        | 8200mAh (non-removable), 20W fast charge                    |
