@@ -5,7 +5,7 @@
 # Storage
 # ==============================
 
-/storage                     f2fs   /data/media                            flags=display="Internal Storage";usermrf;fsflags="bind";backup=1;removable;
+/storage                     f2fs   /data/media                              flags=display="Internal Storage";usermrf;fsflags="bind";backup=1;removable;
 /metadata                    ext4   /dev/block/by-name/metadata              flags=display="Metadata";wipeingui;backup=1;
 /data                        f2fs   /dev/block/by-name/userdata              flags=display="Data";wipeingui;backup=1;
 /misc                        emmc   /dev/block/by-name/misc                  flags=display="Misc";
