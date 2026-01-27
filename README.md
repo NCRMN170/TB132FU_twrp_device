@@ -83,4 +83,4 @@ Note:
 $~$
 
 ## Device picture
-![Cihaz Adı](https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-pro-gen2.jpg)
+<img src="https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-pro-gen2.jpg" width="800">
