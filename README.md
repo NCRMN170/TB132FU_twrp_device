@@ -1,4 +1,4 @@
-# Recovery Device Tree for Lenovo Tab P11 Pro Gen 2 _ from YZbruh and a little me
+# Recovery Device Tree for Lenovo Tab P11 Pro Gen 2 _ from YZbruh and me
 
 The Lenovo Tab P11 Pro Gen 2 (codenamed _"TB132FU"_) is an mid-level tablet from Lenovo.
 
@@ -78,10 +78,15 @@ export ALLOW_MISSING_DEPENDENCIES=true
 lunch twrp_TB132FU-eng
 mka bootimage
 ```
-Note:
+*
+*
+Important Note:
 
  To avoid the half-screen issue, you need to download the graphics_drm.cpp and libminuitwrp_defaults.go files from https://github.com/TeamWin/android_bootable_recovery/tree/android-14/minuitwrp and replace the same files in the bootable/recovery/minuitwrp folder in the root directory of TWRP. 
 $~$
+
+*
+*
 
 ## Device picture
 <img src="https://p1-ofp.static.pub//fes/cms/2024/05/24/4q1v8i4px9t2h7whcs1kz1gwxse5by593326.png?width=400&height=400" width="600">
