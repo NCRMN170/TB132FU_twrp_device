@@ -83,4 +83,4 @@ Note:
 $~$
 
 ## Device picture
-<img src="https://fdn2.gsmarena.com/vv/bigpic/lenovo-tab-p11-pro-gen2.jpg" width="600">
+<img src="https://p1-ofp.static.pub//fes/cms/2024/05/24/4q1v8i4px9t2h7whcs1kz1gwxse5by593326.png?width=400&height=400" width="600">
