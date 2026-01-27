@@ -72,6 +72,7 @@ git clone https://github.com/NCRMN170/TB132FU_twrp_device.git device/lenovo/TB13
 3. To build:
 
 ```bash
+export LC_ALL=C; export LANG=C;
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
 lunch twrp_TB132FU-eng
