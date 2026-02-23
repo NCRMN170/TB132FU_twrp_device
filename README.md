@@ -1,4 +1,4 @@
-# Recovery Device Tree for Lenovo Tab P11 Pro Gen 2 _ from YZbruh and me
+# Orange_Fox Device Tree for Lenovo Tab P11 Pro Gen 2 
 
 The Lenovo Tab P11 Pro Gen 2 (codenamed _"TB132FU"_) is an mid-level tablet from Lenovo.
 
@@ -61,7 +61,7 @@ $~$
 
 ## How to build
 
-1. Set up the build environment following the instructions [here](https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp/blob/twrp-12.1/README.md#getting-started)
+1. Set up the build environment following the instructions [here](https://gitlab.com/OrangeFox/sync.git)
 
 2. In the root folder of the fetched repo, clone the device tree:
 
@@ -72,9 +72,8 @@ git clone https://github.com/NCRMN170/TB132FU_twrp_device.git device/lenovo/TB13
 3. To build:
 
 ```bash
-export LC_ALL=C; export LANG=C;
-export ALLOW_MISSING_DEPENDENCIES=true
-. build/envsetup.sh
+export FOX_BUILD_DEVICE="TB132FU";
+. build/envsetup.sh;
 lunch twrp_TB132FU-eng
 mka bootimage
 ```
