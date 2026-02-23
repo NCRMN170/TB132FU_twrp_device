@@ -1,4 +1,4 @@
-# Recovery Device Tree for Lenovo Tab P11 Pro Gen 2 _ from YZbruh and me
+# OFox Recovery Device Tree for Lenovo Tab P11 Pro Gen 2 
 
 The Lenovo Tab P11 Pro Gen 2 (codenamed _"TB132FU"_) is an mid-level tablet from Lenovo.
 
