@@ -66,7 +66,7 @@ $~$
 2. In the root folder of the fetched repo, clone the device tree:
 
 ```bash
-git clone https://github.com/NCRMN170/TB132FU_twrp_device.git -b a14_twrp12.1 device/lenovo/TB132FU
+git clone https://github.com/NCRMN170/TB132FU_twrp_device.git -b a12_twrp12.1 device/lenovo/TB132FU
 ```
 
 3. To build:
